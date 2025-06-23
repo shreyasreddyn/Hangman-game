@@ -24,25 +24,25 @@ A terminal-based version of the classic Hangman game written in Python! Guess th
 To install `colorama`, run:
 pip install colorama
 
-How to Run the Game
+## How to Run the Game
 1.Clone the repository:
 git clone https://github.com/your-username/hangman-game.git
 cd hangman-game
-Make sure you have a words.py file.
-Run the game:
+2.Make sure you have a words.py file.
+3.Run the game:
 python hangman.py
 
-Project Structure
+## Project Structure
 hangman-game/
-├── hangman.py
-├── words.py
-├── streak.txt
-└── README.md
+├── hangman.py    
+├── words.py       
+├── streak.txt     
+└── README.md       
 
-To-Do / Future Improvements
- Add GUI using tkinter
- Add difficulty levels (Easy, Medium, Hard)
- Export score history to a file
- Show time taken per game
- Leaderboard with high scores
+## To-Do / Future Improvements
+1.Add GUI using tkinter
+2.Add difficulty levels (Easy, Medium, Hard)
+3.Export score history to a file
+4.Show time taken per game
+5.Leaderboard with high scores
 
