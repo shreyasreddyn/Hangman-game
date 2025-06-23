@@ -22,8 +22,6 @@ A terminal-based version of the classic Hangman game written in Python! Guess th
 - `colorama` library
 
 To install `colorama`, run:
-
-```bash
 pip install colorama
 
 How to Run the Game
